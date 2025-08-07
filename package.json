@@ -2,7 +2,7 @@
   "name": "react-mern-practice",
   "version": "1.0.0",
   "description": "support ticket app",
-  "type": "commonjs",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
